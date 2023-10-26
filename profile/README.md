@@ -2,4 +2,4 @@
 
 ![](https://raw.githubusercontent.com/aexirtech/.github/main/assets/aexir-tech-logo-1.0-header.png)
 
-Aexir Tech is building AI-powered technologies to help humans reason through tasks faster and better.
+Aexir Tech is an applied AI-research company building AI-powered technologies to augment the human reasoning capabilities.

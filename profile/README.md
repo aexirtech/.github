@@ -2,4 +2,4 @@
 
 ![](https://raw.githubusercontent.com/aexirtech/.github/main/assets/aexir-tech-logo-1.0-header.png)
 
-Aexir Tech is a technology company building AI systems & interfaces to advance humanity.
+Aexir Tech is a technology company building AI systems & interfaces from the future to advance humanity.

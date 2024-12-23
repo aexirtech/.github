@@ -2,4 +2,4 @@
 
 ![](https://raw.githubusercontent.com/aexirtech/.github/main/assets/aexir-tech-logo-1.0-header.png)
 
-Aexir Tech is a civilization-acceleration company inventing the world's first Artificial Imagination + Imagination Machines (Aoxir) for AI to help solve humanity's toughest problems.
+Aexir Tech is a civilization-acceleration company inventing the world's first Artificial Imagination + Imagination Machines (Aoxir - the next revolution of thinking machines) for AI to help solve humanity's toughest problems.
